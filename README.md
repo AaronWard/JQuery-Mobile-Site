@@ -5,3 +5,7 @@ A mobile website to give information about college facilities developed with JQu
 ## Hosted version
 https://itbmobileapplication.000webhostapp.com/
 Unsafe scripts must be loaded in order to view JQuery components
+
+
+
+![alt text](https://i.imgur.com/X38MTiy.jpg)
